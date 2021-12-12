@@ -9,8 +9,8 @@ Follow along on CS229, CS230, CS231N lectures
 Project Idea: Build a finger tracking software
 
 # Day 1
-Watch video by Andrew Ng on getting started in ML: https://www.youtube.com/watch?v=1k37OcjH7BM
-Watch video on reading research papers: https://www.youtube.com/watch?v=733m6qBH-jI
-Start building base of project: website with camera screen
-Watch 2 videos from machine learning (CS229)
-Use linear regression to implement a small project
+Watch video by Andrew Ng on getting started in ML: https://www.youtube.com/watch?v=1k37OcjH7BM  
+Watch video on reading research papers: https://www.youtube.com/watch?v=733m6qBH-jI  
+Start building base of project: website with camera screen  
+Watch 2 videos from machine learning (CS229)  
+Use linear regression to implement a small project  
