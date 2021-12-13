@@ -8,7 +8,7 @@ Follow along on CS229, CS230, CS231N lectures
 
 Project Idea: Build a finger tracking software - help draw on screen
 
-# Day 1
+# Day 1 12/12/2021
 Watch video by Andrew Ng on getting started in ML: https://www.youtube.com/watch?v=1k37OcjH7BM  
 Watch videos from machine learning (CS229) - Lecture 1 and part of lecture 2  
 
@@ -16,7 +16,7 @@ Andrew Ng course:
 https://cs229.stanford.edu/  
 https://www.deeplearning.ai/ambassador/  
 
-# Day 2
+# Day 2 12/13/2021
 Watch lecture 2,3, and 4  
 Start building base of project: website with camera screen  
 Use linear regression to implement a small project  
